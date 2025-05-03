@@ -1,0 +1,54 @@
+[
+    {
+        "nombre": "alvin_y_las_ardillas",
+        "imagen": "alvin_y_las_ardillas.jpg",
+        "funciones": [
+            "12:00",
+            "15:00",
+            "18:00"
+        ]
+    },
+    {
+        "nombre": "gigantes_de_acero",
+        "imagen": "gigantes_de_acero.jpg",
+        "funciones": [
+            "13:00",
+            "17:00",
+            "21:00"
+        ]
+    },
+    {
+        "nombre": "la_monja",
+        "imagen": "la_monja.jpg",
+        "funciones": [
+            "12:00",
+            "15:00",
+            "18:00"
+        ]
+    },
+    {
+        "nombre": "sonic_3",
+        "imagen": "sonic_3.jpg",
+        "funciones": [
+            "13:00",
+            "17:30",
+            "21:00"
+        ]
+    },
+    {
+        "nombre": "mario_bros_la_pelicula",
+        "imagen": "mario_bros_la_pelicula.jpg",
+        "funciones": [
+            "12:30",
+            "13:00"
+        ]
+    },
+    {
+        "nombre": "rambo",
+        "imagen": "rambo.jpg",
+        "funciones": [
+            "1:00",
+            "9:00"
+        ]
+    }
+]

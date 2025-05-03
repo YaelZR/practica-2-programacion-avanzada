@@ -1,0 +1,98 @@
+[
+    {
+        "pelicula": "sonic_3",
+        "funcion": "12:00 PM",
+        "asientos": [
+            "1-1"
+        ],
+        "fecha": "2025-05-02 14:53:11"
+    },
+    {
+        "pelicula": "sonic_3",
+        "funcion": "12:00 PM",
+        "asientos": [
+            "1-2"
+        ],
+        "fecha": "2025-05-02 14:53:22"
+    },
+    {
+        "pelicula": "la_monja",
+        "funcion": "6:00 PM",
+        "asientos": [
+            "1-3"
+        ],
+        "fecha": "2025-05-02 15:33:32"
+    },
+    {
+        "pelicula": "la_monja",
+        "funcion": "12:00 PM",
+        "asientos": [
+            "2-5"
+        ],
+        "fecha": "2025-05-02 16:00:28"
+    },
+    {
+        "pelicula": "sonic_3",
+        "funcion": "12:00 PM",
+        "asientos": [
+            "2-2"
+        ],
+        "fecha": "2025-05-02 16:05:13"
+    },
+    {
+        "pelicula": "alvin_y_las_ardillas",
+        "funcion": "9:00 PM",
+        "asientos": [
+            "5-5"
+        ],
+        "fecha": "2025-05-02 16:27:15"
+    },
+    {
+        "pelicula": "uncharted",
+        "funcion": "9:00 PM",
+        "asientos": [
+            "1-2"
+        ],
+        "fecha": "2025-05-02 16:27:59"
+    },
+    {
+        "pelicula": "sonic_3",
+        "funcion": "3:00 PM",
+        "asientos": [
+            "2-4"
+        ],
+        "fecha": "2025-05-02 16:42:43"
+    },
+    {
+        "pelicula": "alvin_y_las_ardillas",
+        "funcion": "12:00 PM",
+        "asientos": [
+            "4-4"
+        ],
+        "fecha": "2025-05-02 16:46:16"
+    },
+    {
+        "pelicula": "gigantes_de_acero",
+        "funcion": "12:00 PM",
+        "asientos": [
+            "2-3"
+        ],
+        "fecha": "2025-05-02 16:56:03"
+    },
+    {
+        "pelicula": "rambo",
+        "funcion": "3:00 PM",
+        "asientos": [
+            "5-6"
+        ],
+        "fecha": "2025-05-02 17:02:56"
+    },
+    {
+        "pelicula": "rambo",
+        "funcion": "12:00 PM",
+        "asientos": [
+            "1-1"
+        ],
+        "fecha": "2025-05-02 17:07:54"
+    }
+]
